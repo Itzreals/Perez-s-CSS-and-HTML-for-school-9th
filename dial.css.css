@@ -1,0 +1,22 @@
+.Title {background-color:#16b7df; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center; color: rgb(6, 45, 71); margin: 50px; border-color: white;}
+
+.Title2 {background-color:#16b7df; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; text-align: center; color: rgb(6, 45, 71); font-size: 20px; margin: 50px;}
+
+body {background-color: #4babc3; background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbYPJZMidOaZlqP6eiKi7baNWliTLyWS0AjO1nYNxAgQrI7xjCzwyqQfZhEcWXqVXSfc&usqp=CAU); background-size: cover;}
+
+p {background-color: #16b7df; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(6, 45, 71) ;}
+
+.linkbutton {background-color: #16b7df; text-decoration: none; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; padding: 1%; margin: 2px;}
+
+.linkbutton:hover { background-color:#062d47;
+color: #16b7df; text-align: end;} 
+
+.youtuberebornlink {align-self: left 40px;}
+
+.intro {text-align: center; margin: 50px;}
+
+.list {background-color: #16b7df; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(6, 45, 71); margin: 50px;}
+
+.question {background-color:#16b7df; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: rgb(6, 45, 71); font-size: 20px; margin: 50px;}
+
+.material-icons {color: #16b7df; background-color: rgb(6, 45, 71);}
